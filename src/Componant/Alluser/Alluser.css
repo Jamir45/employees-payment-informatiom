@@ -1,0 +1,40 @@
+img{
+    width: 60%;
+    height: 130px;
+}
+.displayProfile{display: inline-block;}
+.usersProfile {
+    width: 231px;
+    text-align: center;
+    background-color: white;
+    margin: 14px;
+    padding: 20px 0px;
+    border-radius: 5px;
+}
+.details{
+    margin-top: 20px;
+}
+button.payBtn {
+    font-size: 18px;
+    font-weight: 600;
+    background-color: cyan;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 140px;
+    padding: 2px;
+    transition: 0.5s;
+}
+.payBtn:hover{
+    background-color: rgb(12, 37, 53);
+    color: orange;
+    border: 1px solid orange;
+}
+button.paid {
+    width: 100px;
+    font-weight: 600;
+    background-color: green;
+    color: white;
+    border: 1px solid orange;
+    border-radius: 5px;
+    font-size: 19px;
+}

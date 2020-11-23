@@ -1,0 +1,15 @@
+.fullSection{
+    padding-top: 30px;
+    margin-top: 80px;
+    display: flex;}
+.userSection{
+    width: 70%;
+    box-sizing: border-box;
+}
+.accountSection{
+    width: 30%;
+    /* text-align: center; */
+}
+.position {
+    position: fixed;
+}

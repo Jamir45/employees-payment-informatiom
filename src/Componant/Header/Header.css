@@ -1,0 +1,11 @@
+.Header{
+    margin-bottom: 100px;
+}
+.header{
+    height: 80px;
+    text-align: center;
+    background-color: aqua;
+}
+.header h2{
+    padding-top: 18px;
+}
